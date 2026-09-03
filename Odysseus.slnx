@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Argus.Api/Argus.Api.csproj" />
+    <Project Path="src/Hermes.Host/Hermes.Host.csproj" />
+    <Project Path="src/Odysseus.Contracts/Odysseus.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Hermes.Tests/Hermes.Tests.csproj" />
+  </Folder>
+</Solution>
